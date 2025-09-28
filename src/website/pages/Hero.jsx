@@ -19,7 +19,7 @@ export default function Hero() {
 
 
         {/* Hero Content */}
-        <div className="relative bg-gradient-to-r from-[#2fbca6]/80 to-white/30 h-screen w-full z-10  mx-auto px-6 lg:px-32 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
+        <div className="relative bg-gradient-to-r from-[#2fbca6]/90 to-white/10 h-screen w-full z-10  mx-auto px-6 lg:px-32 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           {/* Left Content */}
           <motion.div
             initial={{ opacity: 0, y: 100 }}
