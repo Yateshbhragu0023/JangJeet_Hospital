@@ -14,9 +14,8 @@ export default function Hero() {
   return (
     <>
 
-      <section style={bg} id="home" className="mt-20 relative w-full h-screen flex items-center justify-center  overflow-hidden">
+      <section style={bg} id="home" className="md:mt-20 mt-28 relative w-full h-screen flex items-center justify-center  overflow-hidden">
         {/* Background Shape */}
-
 
         {/* Hero Content */}
         <div className="relative bg-gradient-to-r from-[#2fbca6]/90 to-white/10 h-screen w-full z-10  mx-auto px-6 lg:px-32 grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
